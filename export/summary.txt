@@ -1,0 +1,6 @@
+Summary Report
+
+Date range			: 2021-07-01 - 2021-07-31
+Source records Processed	: 7
+Number of discrepancies		: 1
+Type of discrepancies		: DISCREPANCY DATA - This is non-reconciled entries
